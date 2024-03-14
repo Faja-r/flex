@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+body{
+margin: 0;
+}
+.A{
+display:flex;
+background-color:#083f46 ;
+flex-direction: row;
+justify-content: space-between;
+list-style:none;
+color: white;
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+ ul li {
+      display: flex;
+      padding: 1rem;
+     } 
+     ul{
+           margin: 0px;
+            padding-left: 900px;
+            display: flex;
+           
+       }
+ h3{
+        display: flex;
+        color: white;
+
+    }
